@@ -4,3 +4,9 @@ D:\GitKraken\FaithLifeWallpaper\FaithLifeWallpaper\bin\Debug\FaithLifeWallpaper.
 D:\GitKraken\FaithLifeWallpaper\FaithLifeWallpaper\obj\Debug\FaithLifeWallpaper.csprojAssemblyReference.cache
 D:\GitKraken\FaithLifeWallpaper\FaithLifeWallpaper\obj\Debug\FaithLifeWallpaper.exe
 D:\GitKraken\FaithLifeWallpaper\FaithLifeWallpaper\obj\Debug\FaithLifeWallpaper.pdb
+E:\GitHub\FaithLifeWallpaper\FaithLifeWallpaper\bin\Debug\FaithLifeWallpaper.exe.config
+E:\GitHub\FaithLifeWallpaper\FaithLifeWallpaper\bin\Debug\FaithLifeWallpaper.exe
+E:\GitHub\FaithLifeWallpaper\FaithLifeWallpaper\bin\Debug\FaithLifeWallpaper.pdb
+E:\GitHub\FaithLifeWallpaper\FaithLifeWallpaper\obj\Debug\FaithLifeWallpaper.csprojAssemblyReference.cache
+E:\GitHub\FaithLifeWallpaper\FaithLifeWallpaper\obj\Debug\FaithLifeWallpaper.exe
+E:\GitHub\FaithLifeWallpaper\FaithLifeWallpaper\obj\Debug\FaithLifeWallpaper.pdb
